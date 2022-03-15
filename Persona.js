@@ -74,36 +74,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Name: "Yasmine",
+				Photo: "Yasmine.jpg",
+				Quote: "Viajar te abre la mente",
+				Age: 22,
+				Occupation: "Becaria en un laboratorio",
+				Family: "En una relación a distancia.",
+				Location: "Almería (Roquetas de Mar)",
+				Character: "Alegre y divertida.",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Encontrar un trabajo que le guste.", "Viajar por el mundo.", "Conocer a gente nueva.", "Aprender a tocar la guitarra."],
+				Frustrations: ["No recibe mucho dinero de las prácticas.", "La relación a distancia le empieza a pesar.", "Quiere dar un cambio de aires en su vida."],
+				Bio: "Yasmine hace un año que acabó la carrera y está trabajando de prácticas en un laboratorio en una situación un poco precaria. Está un poco cansada de la rutina de su vida y necesita un cambio de aire para no sentirse estancada. Cree que es el mejor momento para viajar y descubrir nuevos lugares. ",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "TIC/Internet", Value: 4 },
+					{ Name: "Mobile", Value: 4 },
+					{ Name: "RRSS", Value: 5 },
+					{ Name: "Software", Value: 3 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Muchos amigos de Yasmine le han aconsejado que visite Granada debido a la variedad cultural de la ciudad y así tomar esta como un punto de partida para su viaje personal. Como su idea es viajar a muchos sitios más necesita encontrar un alojamiento barato ya que su presupuesto es bastante limitado." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Publicidad Tradicional (Ads)", Value: 2 },
+					{ Name: "Online & Social Media", Value: 5 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4}
 				]
 			}
 		];
