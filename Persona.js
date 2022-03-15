@@ -35,7 +35,7 @@ angular.module("angular", [])
 				Id: 0,
 				Name: "Fernando",
 				Photo: "Fernando.jpg",
-				Quote: "No te detengas hasta que te sientas orgulloso",
+				Quote: "En esta vida no hay nada como un buen amigo",
 				Age: 28,
 				Occupation: "En paro",
 				Family: "Soltero",
