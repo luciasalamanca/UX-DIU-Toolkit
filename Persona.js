@@ -34,7 +34,7 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Fernando",
-				Photo: "man.png",
+				Photo: "Fernando.jpg",
 				Quote: "No te detengas hasta que te sientas orgulloso",
 				Age: 28,
 				Occupation: "En paro",
