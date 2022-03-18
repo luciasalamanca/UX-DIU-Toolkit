@@ -91,56 +91,56 @@ angular.module("angular", [])
                 /***      Cambiar datos        *******/
                 /*************************************/
                 
-				Id: 1,
-				Name: "Yasmine",
+		Id: 1,
+		Name: "Yasmine",
                 Photo: "Yasmine.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
+                goal1: "Quiere preparar un viaje a Granada",
                 touch1: "agenda",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
+                con1: "Mira en su agenda qué fechas tiene disponibles para ir ",
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                goal2: "Busca en internet información sobre el alojamiento en Granada y las actividades que puede realizar durante la estancia",
+                touch2: "móvil",
+                feel2: "2",
+                con2: "Ve que los precios de los hoteles no se ajustan a su presupuesto y tampoco ofrecen muchos servicios en los que ella está interesada.",
+                ima2: "cartoon-phone.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                goal3: "Comienza a buscar alojamiento en hostels.",
+                touch3: "móvil",
+                feel3: "3",
+                con3: "Hay varios hostels que se ajustan a su presupuesto y no sabe bien por cuál decidirse.",
+                ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                goal4: "Lee reseñas acerca de los distintos hostels y se decide por Carlota Braun",
+                touch4: "móvil",
+                feel4: "3",
+                con4: "No está convencida de todo del hostel porque le ha costado encontrar la ubicación exacta del hostel en la página",
+                ima4: "cartoon-phone.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
+                goal5: "Comprueba las habitaciones disponibles ",
+                touch5: "ordenador",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                con5: "Sólo hay un tipo de habitación para la fecha, pero le parece adecuada",
+                ima5: "cartoon-PCtyping.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
+                goal6: "Consigue reservar la habitación deseada",
                 touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                feel6: "4",
+                con6: "Le habría gustado tener más opciones de habitaciones para elegir",
+                ima6: "cartoon-PChappy.png",
                 
                 
                 
