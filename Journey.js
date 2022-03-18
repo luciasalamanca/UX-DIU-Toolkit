@@ -33,56 +33,56 @@ angular.module("angular", [])
                 /*** Cambiar datos             *******/
                 /*************************************/
                 
-				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+		Id: 0,
+		Name: "Fernando",
+                Photo: "Fernando.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                goal1: "Quiere visitar a su primo que estudia en Granada",
+                touch1: "Móvil (llamada o whatsapp)",
+                feel1: "5",
+                con1: "Tiene que ver qué días tiene su primo libre para poder ir a visitarlo ",
+                ima1: "cartoon-phoning.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                goal2: "Le pregunta a sus amigos por sitios donde alojarse",
+                touch2: "conversación",
+                feel2: "4",
+                con2: "Sus amigos le recomiendan el hostel Carlota Braun pero no pueden ayudarle a hacer la reserva",
+                ima2: "cartoon-speaking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
-                feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                goal3: "Entra en la página de Carlota Braun",
+                touch3: "ordenador",
+                feel3: "1",
+                con3: "Al entrar en la página principal se siente abrumado ya que no se maneja bien con los ordenadores y encuentra más díficil de lo que pensaba ver las habitaciones disponibles",
+                ima3: "cartoon-PCtyping.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
+                goal4: "Observa la oferta de habitaciones que tiene el hostel ",
                 touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
+                feel4: "3",
+                con4: "Consigue entrar en el apartado de las habitaciones pero descubre que no hay mucha variedad",
                 ima4: "cartoon-PCtyping.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
+                goal5: "Encuentra una opción que le parece adecuada",
+                touch5: "ordenador",
                 feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                con5: "Al intentar hacer la reserva le sale una habitación distinta a la que había seleccionado",
+                ima5: "cartoon-PChard.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Se da por vencido al no conseguir seleccionar la habitación que quería",
                 touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                feel6: "1",
+                con6: "No consigue reservar la habitación y no sabe si va a tener que cancelar el viaje",
+                ima6: "cartoon-PCangry.png",
                 
 			},
 			{	
@@ -92,8 +92,8 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Yasmine",
+                Photo: "Yasmine.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
